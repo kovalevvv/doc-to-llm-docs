@@ -1,0 +1,12 @@
+{
+  "name": "kovalevvv",
+  "description": "Claude Code plugins by Vladimir Kovalev",
+  "owner": { "name": "Vladimir Kovalev", "url": "https://github.com/kovalevvv" },
+  "plugins": [
+    {
+      "name": "doc-to-llm-docs",
+      "source": "./",
+      "description": "Convert a large Word document into a folder of LLM-friendly Markdown files with an index, llms.txt and llms-full.txt."
+    }
+  ]
+}

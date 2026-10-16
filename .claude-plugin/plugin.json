@@ -1,0 +1,10 @@
+{
+  "name": "doc-to-llm-docs",
+  "description": "Turn a large Word document (.doc/.docx/.odt/.rtf/.mht) into a folder of LLM-friendly Markdown: one file per section, restored section numbers, Markdown tables, fenced code, README index, llms.txt and llms-full.txt.",
+  "version": "1.0.0",
+  "author": { "name": "Vladimir Kovalev", "url": "https://github.com/kovalevvv" },
+  "homepage": "https://github.com/kovalevvv/doc-to-llm-docs",
+  "repository": "https://github.com/kovalevvv/doc-to-llm-docs",
+  "license": "MIT",
+  "keywords": ["skill", "markdown", "docx", "pandoc", "documentation", "rag", "llms.txt"]
+}
